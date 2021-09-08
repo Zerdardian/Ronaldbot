@@ -1,5 +1,5 @@
 {
-  "token":              "",
+  "token":              "(discord token)",
   "prefix":             "!",
   "counting-id":        "",
   "bot-logs-id":        "",
@@ -13,6 +13,6 @@
   "mysql":[
     "localhost", "root", "", "${Kies een database naar keuze}"
   ],
-  "botid":              "",
+  "botid":              "(Voor commands van modding, dat de bot niet zichzelf kan bannen.)",
   "website":            "",
 }
