@@ -1,0 +1,18 @@
+{
+  "token":              "",
+  "prefix":             "!",
+  "counting-id":        "",
+  "bot-logs-id":        "",
+  "mute-role-id":       "",
+  "event-team-role-id": "", 
+  "event-winner-id":    "",
+  "mod-role-id":        "",
+  "admin-role-id":      "",
+  "owner-role-id":      "",
+  
+  "mysql":[
+    "localhost", "root", "", "${Kies een database naar keuze}"
+  ],
+  "botid":              "",
+  "website":            "",
+}
